@@ -5,7 +5,7 @@
   <channel>
     <title>Ashwood Chronicles</title>
     <description>Ancient stories. Quiet hours. Sleep well, wherever you are tonight.</description>
-    <link>https://TUUSUARIO.github.io/ashwood-rss</link>
+    <link>https://theashwoodchronicles.github.io/ashwood-rss</link>
     <language>en</language>
     <copyright>Ashwood Chronicles 2026</copyright>
     <itunes:author>Mr. Ashwood</itunes:author>
@@ -13,7 +13,7 @@
       <itunes:name>Mr. Ashwood</itunes:name>
       <itunes:email>theashwoodchronicles@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://lh3.googleusercontent.com/d/ID_IMAGEN_MRASHWOOD"/>
+    <itunes:image href="https://lh3.googleusercontent.com/d/1nSGyXJcSHIak_gvWmPumVW1QQLASLTJG"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
