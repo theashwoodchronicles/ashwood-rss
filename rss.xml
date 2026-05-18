@@ -17,5 +17,21 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-  </channel>
+  
+  <item>
+    <title>a Children and her golden retriever contemplating infinity</title>
+    <description><![CDATA[# Ashwood Chronicles: The Hours - A Children and Her Golden Retriever Contemplating Infinity
+
+Throughout history, children have sought comfort in the quiet companionship of animals, finding in their presence a mirror to mysteries beyond words. Golden retrievers, beloved for their gentle wisdom and steady hearts, have long served as silent philosophers in the domestic landscape. Tonight, you are there.
+
+The audio features binaural beats tuned to sleep frequencies, designed to guide your mind toward deeper rest as the scene unfolds around you.
+
+#AshlwoodChronicles #SleepContent #TheHours #GoldenRetriever #ContemplativeAudio #SleepStories #BinaurnalBeats
+
+If you would like to return to these hours — you know where to find us.]]></description>
+    <enclosure url="https://drive.google.com/uc?id=1IKnEHcFVNazHKn270o_qX5-9OkbeyxdN&export=download" type="audio/mpeg"/>
+    <pubDate>Mon, 18 May 2026 17:47:19 GMT</pubDate>
+    <guid>3647f0a6_children_contemplating_retriever</guid>
+  </item>
+</channel>
 </rss>
